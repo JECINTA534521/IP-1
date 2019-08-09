@@ -8,3 +8,9 @@ h1,h3{
 nav{
     background-color: black;
 }
+.center{
+    margin-top: 100px;
+}
+.page-footer{
+     background-color:black;
+}
