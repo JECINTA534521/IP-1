@@ -1,0 +1,10 @@
+body {
+    background-color: #dfbf9f;
+}
+h1,h3{
+    text-align: center;
+    top: 50%;
+}
+nav{
+    background-color: black;
+}
